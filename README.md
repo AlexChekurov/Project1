@@ -19,6 +19,10 @@
 
 https://user-images.githubusercontent.com/101993583/235639965-abfd2af8-30c6-4972-af2d-1fe4cae46b36.mov
 
+Создание и редактирование читателя (с валидацией):
+
+https://user-images.githubusercontent.com/101993583/235642568-5a2d399c-ca61-4f6f-8524-f333813287b9.mov
+
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/101993583/232076782-3475d314-8255-4ce0-b32a-f3173a29a648.png">
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/101993583/232077059-9c5dbec6-f5cc-4ef0-b57d-17891d04e39f.png">
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/101993583/232077204-ff7ce14f-d76a-4261-8745-73746aa4a055.png">
