@@ -17,6 +17,7 @@
 
 Титульные страницы:
 
+https://user-images.githubusercontent.com/101993583/235639746-69b182b2-d106-4114-9653-0b0c252bb2ee.mov
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/101993583/232076782-3475d314-8255-4ce0-b32a-f3173a29a648.png">
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/101993583/232077059-9c5dbec6-f5cc-4ef0-b57d-17891d04e39f.png">
